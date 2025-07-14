@@ -2,13 +2,15 @@ import streamlit as st
 import os
 from Retriever import retriever
 
+
 st.columns([1,1,1,1,1])[2].image("images/recruitment.png")
 st.columns([1.17,1,1])[1].header("ATS System")
 st.info("Find new candidates in seconds.")
 st.write("---")
 
 if "retriever" not in st.session_state:
-    st.session_state.search = retriever()
+    API = st.secrets("API")
+    st.session_state.search = retriever(API)
 # search = retriever()
 
 st.subheader("Try Using a Sample:")
