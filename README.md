@@ -3,4 +3,6 @@ Smart ATS Sstem that can search for the best candidates from a vector database o
 
 Dataset references:
 
-https://huggingface.co/datasets/d4rk3r/resumes-raw-pdf   https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset?resource=download
+https://huggingface.co/datasets/d4rk3r/resumes-raw-pdf
+
+https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset?resource=download
