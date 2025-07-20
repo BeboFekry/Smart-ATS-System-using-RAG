@@ -27,7 +27,7 @@ This project enhances the traditional ATS by:
 
 ## 📂 Project Structure
 
-
+```
 Smart-ATS/
 ├── .streamlit/ # Streamlit config files
 ├── Data/ # Data-related folders
@@ -40,6 +40,7 @@ Smart-ATS/
 ├── Retriever.py # Core retrieval logic for RAG
 ├── requirements.txt # Python dependencies
 └── st_app.py # Streamlit app entry point
+```
 
 ---
 
