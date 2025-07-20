@@ -56,11 +56,14 @@ Run the app:
 
 `streamlit run st_app.py`
 
+---
+
+## Screenshots
 
 
 
-## Dataset references:
+## Resources:
 
-https://huggingface.co/datasets/d4rk3r/resumes-raw-pdf
+[huggingface pdf resumes pdf dataset](https://huggingface.co/datasets/d4rk3r/resumes-raw-pdf)
 
-https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset?resource=download
+[Kaggle pdf resumes pdf dataset](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset?resource=download)
