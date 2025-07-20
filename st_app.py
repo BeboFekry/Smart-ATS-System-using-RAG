@@ -16,7 +16,7 @@ if "retriever" not in st.session_state:
 st.subheader("Try Using a Sample:")
 
 samples = {}
-path = 'job description'
+path = 'Data/job description'
 files = os.listdir(path)
 for file in files:
     with open(os.path.join(path,file), 'r', encoding='utf-8') as f:
