@@ -1,0 +1,52 @@
+## **Data Analyst – Job Description**
+
+**Location:** Hybrid (Cairo, Egypt)
+**Employment Type:** Full-time
+**Department:** Business Intelligence / Analytics
+**Seniority Level:** Entry to Mid-Level
+
+---
+
+### **About the Role**
+
+We are seeking a detail-oriented and business-savvy **Data Analyst** to join our analytics team. You will be responsible for gathering, processing, and analyzing data to provide actionable insights that support strategic decision-making. The ideal candidate is passionate about turning raw data into clear, concise stories through visualizations and reports.
+
+---
+
+### **Key Responsibilities**
+
+* Collect and analyze data from multiple sources, ensuring accuracy and completeness.
+* Develop dashboards and reports to visualize key performance indicators (KPIs) and business trends.
+* Perform ad-hoc analyses to support cross-functional teams in marketing, operations, and finance.
+* Identify patterns, trends, and correlations in large data sets to uncover business opportunities.
+* Collaborate with stakeholders to define data requirements and reporting needs.
+* Prepare and present findings to both technical and non-technical audiences.
+
+---
+
+### **Required Qualifications**
+
+* Bachelor’s degree in Data Analytics, Business, Computer Science, Economics, or a related field.
+* Strong proficiency in **SQL** and experience with **Excel** for data manipulation.
+* Familiarity with **data visualization tools** such as **Tableau, Power BI, or Looker**.
+* Experience in **data cleaning, transformation, and exploratory data analysis**.
+* Good understanding of **descriptive statistics** and **business metrics**.
+* Excellent problem-solving skills and attention to detail.
+
+---
+
+### **Preferred Skills**
+
+* Experience with **Python or R** for data analysis and automation.
+* Knowledge of **ETL processes** and working with **databases** (PostgreSQL, MySQL).
+* Familiarity with **A/B testing**, **segmentation**, or **customer analytics**.
+* Understanding of cloud-based data environments (e.g., AWS Redshift, Google BigQuery).
+
+---
+
+### **Why Join Us?**
+
+* Work in a data-driven organization where insights shape strategic direction.
+* Gain exposure to real-world business problems and large-scale datasets.
+* Opportunity for growth in analytics, data science, or business intelligence tracks.
+* Flexible working hours, supportive team, and continuous professional development.

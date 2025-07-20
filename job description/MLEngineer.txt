@@ -1,0 +1,53 @@
+## **Machine Learning Engineer – Job Description**
+
+**Location:** Remote / On-site (Cairo, Egypt)
+**Employment Type:** Full-time
+**Department:** Artificial Intelligence / Engineering
+**Seniority Level:** Mid to Senior Level
+
+---
+
+### **About the Role**
+
+We are hiring a results-driven **Machine Learning Engineer** to design, build, and deploy robust ML systems that power our AI-driven products and services. You will work at the intersection of data science and software engineering to deliver scalable machine learning pipelines, optimize model performance, and integrate intelligent solutions into production environments.
+
+---
+
+### **Key Responsibilities**
+
+* Design and implement end-to-end machine learning pipelines for classification, regression, recommendation, and anomaly detection tasks.
+* Collaborate with data scientists and software engineers to collect data, select features, and optimize model performance.
+* Develop APIs or microservices to deploy machine learning models at scale.
+* Monitor deployed models and maintain performance over time through retraining and validation.
+* Automate model training, evaluation, and deployment using MLOps tools and CI/CD pipelines.
+* Optimize inference time, accuracy, and resource usage of ML models in production.
+* Stay up to date with the latest research in machine learning, deep learning, and AI engineering best practices.
+
+---
+
+### **Required Qualifications**
+
+* Bachelor’s or Master’s degree in Computer Science, Machine Learning, AI, or a related field.
+* Proficiency in **Python** and experience with ML frameworks such as **Scikit-learn, TensorFlow, PyTorch, or XGBoost**.
+* Solid understanding of **ML model lifecycle**, from training and testing to deployment and monitoring.
+* Experience with **data pipelines** and **feature engineering**.
+* Familiarity with **containerization tools** (Docker, Kubernetes) and **cloud platforms** (AWS, GCP, or Azure).
+* Experience deploying ML models via **REST APIs** using **Flask, FastAPI, or similar tools**.
+
+---
+
+### **Preferred Skills**
+
+* Hands-on experience with **MLOps tools** like MLflow, DVC, TFX, or Kubeflow.
+* Knowledge of **vector databases** (FAISS, Pinecone, Chroma) and **retrieval-augmented generation (RAG)** techniques.
+* Experience with **distributed training**, **model versioning**, and **automated hyperparameter tuning**.
+* Familiarity with **big data tools** like Apache Spark or Airflow.
+
+---
+
+### **Why Join Us?**
+
+* Contribute to building scalable AI systems that solve real-world problems.
+* Work with a diverse, highly skilled engineering and AI team.
+* Access to cloud computing resources, GPUs, and state-of-the-art tools.
+* Competitive salary, flexible work setup, and continuous learning opportunities.

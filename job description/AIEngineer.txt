@@ -1,0 +1,52 @@
+## **AI Engineer – Job Description**
+
+**Location:** Cairo, Egypt
+**Employment Type:** Full-time
+**Department:** Artificial Intelligence / Data Science
+**Seniority Level:** Mid to Senior Level
+
+### **About the Role**
+
+We are seeking a highly motivated and skilled **AI Engineer** to join our growing Artificial Intelligence team. The ideal candidate will design, develop, and implement AI-driven solutions that enhance business processes, drive innovation, and deliver high-impact outcomes. You will collaborate with cross-functional teams to turn data into actionable insights using cutting-edge machine learning and deep learning techniques.
+
+---
+
+### **Key Responsibilities**
+
+* Design and implement machine learning and deep learning models for classification, regression, NLP, or computer vision tasks.
+* Build and deploy scalable AI/ML pipelines in production environments.
+* Collaborate with data engineers and software developers to integrate AI models into applications and products.
+* Conduct data preprocessing, feature engineering, and model evaluation.
+* Develop, maintain, and document AI tools and systems following software engineering best practices.
+* Analyze model performance and iterate to improve accuracy and efficiency.
+* Research and stay up to date with recent AI advancements and industry trends.
+
+---
+
+### **Required Qualifications**
+
+* Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, Data Science, or related field.
+* Strong programming skills in **Python** and familiarity with libraries such as **TensorFlow, PyTorch, Scikit-learn, Transformers, or OpenCV**.
+* Experience with **model training, tuning, and evaluation**.
+* Solid understanding of **machine learning algorithms, deep learning architectures, and data preprocessing techniques**.
+* Proficiency in working with **structured and unstructured data**, including images, text, and tabular data.
+* Experience deploying models using **REST APIs, Flask/FastAPI, Docker, or cloud platforms** (AWS, GCP, Azure).
+* Familiarity with **version control systems** (e.g., Git) and **ML lifecycle tools** like MLflow or Weights & Biases.
+
+---
+
+### **Preferred Skills**
+
+* Experience with **NLP techniques** such as BERT, LLMs, or RAG-based architectures.
+* Familiarity with **Vector Databases** (Chroma, FAISS, Pinecone).
+* Experience with **MLOps**, model monitoring, and CI/CD pipelines for AI.
+* Knowledge of **big data tools** like Spark, Kafka, or Databricks is a plus.
+
+---
+
+### **Why Join Us?**
+
+* Work on real-world AI problems with immediate business impact.
+* Opportunity to grow with a fast-paced, AI-first organization.
+* Competitive salary, flexible work hours, and a collaborative team environment.
+* Access to cloud credits, online courses, and AI research resources.

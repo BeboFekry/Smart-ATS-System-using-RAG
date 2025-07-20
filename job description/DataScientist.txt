@@ -1,0 +1,53 @@
+## **Data Scientist – Job Description**
+
+**Location:** Remote / On-site (Cairo, Egypt)
+**Employment Type:** Full-time
+**Department:** Data Science / Analytics
+**Seniority Level:** Mid-Level
+
+---
+
+### **About the Role**
+
+We are looking for a talented and analytical **Data Scientist** to join our dynamic data team. The ideal candidate will extract meaningful insights from complex datasets, design predictive models, and support data-driven decision-making across the organization. You will work closely with stakeholders to understand business problems and transform them into data solutions that deliver measurable value.
+
+---
+
+### **Key Responsibilities**
+
+* Collect, clean, and preprocess large datasets from various sources.
+* Apply statistical analysis and machine learning techniques to solve real-world problems.
+* Build, validate, and deploy predictive models for classification, regression, clustering, or recommendation.
+* Create dashboards and visualizations to communicate findings to non-technical stakeholders.
+* Design and execute A/B tests to measure business impact.
+* Translate business needs into technical requirements and data solutions.
+* Document processes, models, and workflows for reproducibility and collaboration.
+
+---
+
+### **Required Qualifications**
+
+* Bachelor’s or Master’s degree in Data Science, Statistics, Computer Science, Mathematics, or a related field.
+* Proficiency in **Python** (or R) with hands-on experience using libraries like **Pandas, NumPy, Scikit-learn, XGBoost, or StatsModels**.
+* Strong knowledge of **statistics, hypothesis testing, and data exploration** techniques.
+* Experience with **data visualization tools** (e.g., Matplotlib, Seaborn, Plotly, Tableau, or Power BI).
+* Familiarity with **SQL** and working with relational databases.
+* Ability to translate data insights into business actions and communicate clearly with cross-functional teams.
+
+---
+
+### **Preferred Skills**
+
+* Experience with **time series analysis**, **NLP**, or **unsupervised learning** (clustering, dimensionality reduction).
+* Exposure to **Big Data frameworks** like Spark or Hadoop is a plus.
+* Experience with **cloud platforms** (AWS, GCP, or Azure).
+* Familiarity with **MLOps tools**, version control (Git), and experiment tracking (MLflow, Weights & Biases).
+
+---
+
+### **Why Join Us?**
+
+* Work on high-impact projects in a data-driven culture.
+* Collaborate with top professionals in AI, engineering, and business.
+* Competitive compensation, flexible working environment, and continuous learning support.
+* Opportunity to work on diverse datasets and challenging data science problems.
