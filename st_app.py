@@ -9,7 +9,7 @@ st.info("Find new candidates in seconds.")
 st.write("---")
 
 if "retriever" not in st.session_state:
-    API = st.secrets("API")
+    API = "AIzaSyCaPzDUJujNjXa8r2wQ5P0RCHlTMXJc5zE"
     st.session_state.search = retriever(API)
 # search = retriever()
 
