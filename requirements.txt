@@ -1,4 +1,4 @@
 langchain
 langchain_chroma
 sentence_transformers
-sqlite3 == 3.37.2
+sqlite3==3.37.2
