@@ -29,6 +29,8 @@ This project enhances the traditional ATS by:
 
 Smart-ATS/
 ├── data/ # Contains vector DB or parsed CVs
+__
+
 ├── notebooks/ # Jupyter Notebooks for exploration
 ├── images/ # Project visuals
 ├── Retriever.py # RAG pipeline logic
@@ -37,8 +39,22 @@ Smart-ATS/
 └── README.md
 
 
+---
 
-Dataset references:
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+Install required packages:
+
+> pip install -r requirements.txt
+
+> streamlit run st_app.py
+
+
+
+
+## Dataset references:
 
 https://huggingface.co/datasets/d4rk3r/resumes-raw-pdf
 
