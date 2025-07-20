@@ -27,15 +27,19 @@ This project enhances the traditional ATS by:
 
 ## 📂 Project Structure
 
-Smart-ATS/
-├── data/ # Contains vector DB or parsed CVs
-├── notebooks/ # Jupyter Notebooks for exploration
-├── images/ # Project visuals
-├── Retriever.py # RAG pipeline logic
-├── st_app.py # Streamlit app main file
-├── requirements.txt
-└── README.md
 
+Smart-ATS/
+├── .streamlit/ # Streamlit config files
+├── Data/ # Data-related folders
+│ ├── job_description/ # Sample or scraped job description texts
+│ └── vector_db/ # Vector database files (Chroma DB)
+├── images/ # Visual assets and screenshots
+├── notebooks/ # Jupyter notebooks for experimentation
+├── .gitattributes # Git settings
+├── README.md # Project documentation
+├── Retriever.py # Core retrieval logic for RAG
+├── requirements.txt # Python dependencies
+└── st_app.py # Streamlit app entry point
 
 ---
 
