@@ -60,6 +60,18 @@ Run the app:
 
 ## Screenshots
 
+![Screenshot 1](images/Screenshot 1.png)
+
+![Screenshot 1]("images/Screenshot 1.png")
+
+![Screenshot 1]("images/Screenshot 1.png")
+
+![Screenshot 1]("images/Screenshot 1.png")
+
+![Screenshot 1]("images/Screenshot 1.png")
+
+![Screenshot 1]("images/Screenshot 1.png")
+
 
 
 ## Resources:
