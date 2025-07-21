@@ -80,5 +80,6 @@ Run the app:
 ## Contact
 
 Developed by Abdallah Fekry
+
 📧 abdallahfekry95@gmail.com
 🌐 [LinkedIn](https://www.linkedin.com/in/abdallah-fekry) | [GitHub](https://github.com/BeboFekry?tab=repositories)
