@@ -71,9 +71,9 @@ Run the app:
 
 ## Resources:
 
-[huggingface pdf resumes pdf dataset](https://huggingface.co/datasets/d4rk3r/resumes-raw-pdf)
+[huggingface pdf resumes dataset](https://huggingface.co/datasets/d4rk3r/resumes-raw-pdf)
 
-[Kaggle pdf resumes pdf dataset](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset?resource=download)
+[Kaggle pdf resumes dataset](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset?resource=download)
 
 ---
 
