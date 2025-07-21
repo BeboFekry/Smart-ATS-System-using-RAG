@@ -2,7 +2,7 @@
 
 Smart Applicant Tracking System (ATS) that uses advanced NLP and RAG (Retrieval-Augmented Generation) that can search for the best candidates from a vector database of resumes and recommend the best one using a Large Language Model LLM (Google Gemini)
 
-## Key Point
+## Key Points
 - Collected data from several resources as resume pdf documents using file scrappers, resume images using OCR model, text from CSV files using Pandas into a Vector Database using Chroma DB.
 - Built a retrieval system that retrieved most similar documents to the job description.
 - Embedded an LLM model to collect and reformat the retrieved documents and the job description to recommend the best candidate fit the job.
