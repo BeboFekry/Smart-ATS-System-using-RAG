@@ -67,10 +67,18 @@ Run the app:
 ![Screenshot 5](images/Screenshot5.png)
 ![Screenshot 6](images/Screenshot6.png)
 
-
+---
 
 ## Resources:
 
 [huggingface pdf resumes pdf dataset](https://huggingface.co/datasets/d4rk3r/resumes-raw-pdf)
 
 [Kaggle pdf resumes pdf dataset](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset?resource=download)
+
+---
+
+## Contact
+
+Developed by Abdallah Fekry
+📧 abdallahfekry95@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/abdallah-fekry) | [GitHub](https://github.com/BeboFekry?tab=repositories)
